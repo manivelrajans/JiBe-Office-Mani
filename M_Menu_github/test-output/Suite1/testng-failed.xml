@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test name="Testcase2(failed)">
+    <classes>
+      <class name="TestScripts.jibe_general_Login">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- TestScripts.jibe_general_Login -->
+    </classes>
+  </test> <!-- Testcase2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
